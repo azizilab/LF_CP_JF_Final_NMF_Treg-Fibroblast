@@ -9,3 +9,5 @@ SML_final_vis: author @Lauren Friend, visualization and initial exploration into
 circlepacking_mixing_comp_visualization: author @Linyue Fan, circle packing visualization, degree of mixing visualization, visualization by component groups/top components
 
 find degs v2: author @Linyue Fan, code for finding DEGs 
+
+statML_team1_NMF_PARK: author @Cameron Park, NMF model, heat map analysis, pie chart and histograms, spot mixing scatter plots, gene signature analysis not inclduing visualizations
